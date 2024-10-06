@@ -1,9 +1,4 @@
-- First-prize Academic Scholarship, 2023.
+- 中国大学生计算机设计大赛一等奖, 2024.
 
-- Freshman Academic Scholarship, 2022.
+- 美国大学生数学建模竞赛M奖, 2024.
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship, 2021.
-
-- First-prize Academic Scholarship, 2019.
